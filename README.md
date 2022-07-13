@@ -2,7 +2,9 @@
 
 RGB to HSV imaging converter
 
-![HSV](https://www.researchgate.net/profile/Federico-Alejandro-Vazquez-Saraullo/publication/351785444/figure/fig1/AS:1026667619303427@1621788043531/Espacios-de-colores-RGB-y-HSV.jpg)
+![HSV](RGB-HSV.png)
+
+![H](https://wikimedia.org/api/rest_v1/media/math/render/svg/6bd5e3543ebfcb589fbb1945b4ce47305fa62e02)
 
 | Input | Output     | 
 | :-------- | :------- | 
