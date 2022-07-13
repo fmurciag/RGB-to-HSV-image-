@@ -2,9 +2,12 @@
 
 RGB to HSV imaging converter
 
-![HSV](RGB-HSV.png)
+![HSV](resources/RGB-HSV.png)
 
-![H](https://wikimedia.org/api/rest_v1/media/math/render/svg/6bd5e3543ebfcb589fbb1945b4ce47305fa62e02)
+## Equation
+![H](resources/hsv-eq.png)
+
+## Results 
 
 | Input | Output     | 
 | :-------- | :------- | 
